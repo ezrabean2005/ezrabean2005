@@ -1,4 +1,4 @@
-<h1>Hi, I'm Angela, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm Angela, an <a href="www.linkedin.com/in/angela-bedgood">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Angela
 [instagram]: https://www.instagram.com/Angela
-[linkedin]: https://linkedin.com/in/Angela
+[linkedin]: www.linkedin.com/in/angela-bedgood
